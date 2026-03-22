@@ -1,0 +1,1678 @@
+[
+  {
+    "name": "Ofuronoosama Wakoten",
+    "name_ja": "おふろの王様 和光店",
+    "rank": 1,
+    "lat": 35.7834526,
+    "lng": 139.6059474,
+    "address": "Japan, 〒351-0106 Saitama, Wako, Hirosawa, １−５−５５",
+    "url": "https://www.ousama2603.com/wako/",
+    "total_visits": 77,
+    "first_visit": "2022-11-19",
+    "last_visit": "2026-02-22",
+    "visits_by_year": {
+      "2022": 6,
+      "2023": 41,
+      "2024": 13,
+      "2025": 11,
+      "2026": 6
+    },
+    "visit_dates": [
+      "2022-11-19",
+      "2022-12-10",
+      "2022-12-17",
+      "2022-12-23",
+      "2022-12-25",
+      "2022-12-30",
+      "2023-01-07",
+      "2023-01-09",
+      "2023-01-15",
+      "2023-02-03",
+      "2023-02-18",
+      "2023-02-25",
+      "2023-03-03",
+      "2023-04-02",
+      "2023-04-06",
+      "2023-04-09",
+      "2023-04-20",
+      "2023-04-23",
+      "2023-04-27",
+      "2023-05-02",
+      "2023-05-05",
+      "2023-05-14",
+      "2023-06-02",
+      "2023-06-15",
+      "2023-06-20",
+      "2023-06-27",
+      "2023-06-30",
+      "2023-07-18",
+      "2023-07-27",
+      "2023-08-03",
+      "2023-08-13",
+      "2023-08-27",
+      "2023-08-29",
+      "2023-09-02",
+      "2023-09-04",
+      "2023-09-08",
+      "2023-09-14",
+      "2023-09-17",
+      "2023-09-28",
+      "2023-10-09",
+      "2023-10-15",
+      "2023-10-27",
+      "2023-11-04",
+      "2023-11-26",
+      "2023-12-10",
+      "2023-12-17",
+      "2023-12-24",
+      "2024-01-02",
+      "2024-01-14",
+      "2024-01-21",
+      "2024-01-27",
+      "2024-02-04",
+      "2024-02-11",
+      "2024-08-03",
+      "2024-08-11",
+      "2024-08-17",
+      "2024-09-16",
+      "2024-12-21",
+      "2024-12-22",
+      "2024-12-28",
+      "2025-02-22",
+      "2025-02-23",
+      "2025-02-24",
+      "2025-04-19",
+      "2025-04-19",
+      "2025-05-24",
+      "2025-06-28",
+      "2025-07-20",
+      "2025-08-16",
+      "2025-12-14",
+      "2025-12-28",
+      "2026-01-11",
+      "2026-01-16",
+      "2026-01-17",
+      "2026-01-17",
+      "2026-01-25",
+      "2026-02-22"
+    ]
+  },
+  {
+    "name": "Haginoyu",
+    "name_ja": "萩の湯",
+    "rank": 2,
+    "lat": 35.72431,
+    "lng": 139.77773,
+    "address": "Thermae Domus Negishi, 2-chōme-13-13 Negishi, Taito City, Tokyo 110-0003, Japan",
+    "url": "https://haginoyu.jp/",
+    "total_visits": 43,
+    "first_visit": "2018-07-21",
+    "last_visit": "2023-02-04",
+    "visits_by_year": {
+      "2018": 10,
+      "2019": 19,
+      "2020": 3,
+      "2021": 8,
+      "2022": 2,
+      "2023": 1
+    },
+    "visit_dates": [
+      "2018-07-21",
+      "2018-07-29",
+      "2018-09-09",
+      "2018-09-14",
+      "2018-09-21",
+      "2018-10-07",
+      "2018-10-27",
+      "2018-11-11",
+      "2018-12-15",
+      "2018-12-30",
+      "2019-01-14",
+      "2019-02-16",
+      "2019-03-09",
+      "2019-03-17",
+      "2019-03-21",
+      "2019-04-12",
+      "2019-05-06",
+      "2019-05-29",
+      "2019-06-22",
+      "2019-06-23",
+      "2019-07-19",
+      "2019-07-27",
+      "2019-08-10",
+      "2019-08-24",
+      "2019-09-28",
+      "2019-09-29",
+      "2019-10-13",
+      "2019-11-13",
+      "2019-12-15",
+      "2020-08-02",
+      "2020-08-22",
+      "2020-10-25",
+      "2021-02-07",
+      "2021-02-23",
+      "2021-06-05",
+      "2021-08-11",
+      "2021-08-16",
+      "2021-08-30",
+      "2021-10-03",
+      "2021-11-06",
+      "2022-01-10",
+      "2022-07-10",
+      "2023-02-04"
+    ]
+  },
+  {
+    "name": "Aqua Higashinakano",
+    "name_ja": "アクア東中野",
+    "rank": 3,
+    "lat": 35.7074694,
+    "lng": 139.6857296,
+    "address": "4-chōme-9-22 Higashinakano, Nakano City, Tokyo 164-0003, Japan",
+    "url": "https://www.aqua-higashinakano1010.com/",
+    "total_visits": 32,
+    "first_visit": "2021-03-07",
+    "last_visit": "2024-07-28",
+    "visits_by_year": {
+      "2021": 24,
+      "2022": 7,
+      "2024": 1
+    },
+    "visit_dates": [
+      "2021-03-07",
+      "2021-03-13",
+      "2021-03-20",
+      "2021-03-27",
+      "2021-04-03",
+      "2021-04-09",
+      "2021-04-11",
+      "2021-04-14",
+      "2021-04-17",
+      "2021-04-21",
+      "2021-04-24",
+      "2021-04-29",
+      "2021-06-12",
+      "2021-06-26",
+      "2021-06-28",
+      "2021-07-15",
+      "2021-08-08",
+      "2021-08-22",
+      "2021-09-24",
+      "2021-10-16",
+      "2021-11-03",
+      "2021-11-23",
+      "2021-12-11",
+      "2021-12-26",
+      "2022-02-11",
+      "2022-02-20",
+      "2022-03-20",
+      "2022-03-26",
+      "2022-04-09",
+      "2022-07-23",
+      "2022-10-22",
+      "2024-07-28"
+    ]
+  },
+  {
+    "name": "朝霞サウナ 和（なごみ）",
+    "name_ja": "朝霞サウナ 和（なごみ）",
+    "rank": 4,
+    "lat": 35.7958694,
+    "lng": 139.5996732,
+    "address": "3-chōme-1-53 Honchō, Asaka, Saitama 351-0011, Japan",
+    "url": "https://asaka-sauna-nagomi.com/",
+    "total_visits": 29,
+    "first_visit": "2024-02-18",
+    "last_visit": "2026-03-21",
+    "visits_by_year": {
+      "2024": 18,
+      "2025": 9,
+      "2026": 2
+    },
+    "visit_dates": [
+      "2024-02-18",
+      "2024-02-23",
+      "2024-03-02",
+      "2024-03-10",
+      "2024-03-17",
+      "2024-03-20",
+      "2024-03-31",
+      "2024-04-07",
+      "2024-04-18",
+      "2024-04-21",
+      "2024-05-04",
+      "2024-05-11",
+      "2024-05-26",
+      "2024-06-09",
+      "2024-06-30",
+      "2024-07-18",
+      "2024-08-19",
+      "2024-09-22",
+      "2025-01-02",
+      "2025-03-02",
+      "2025-03-16",
+      "2025-03-23",
+      "2025-03-30",
+      "2025-05-04",
+      "2025-07-06",
+      "2025-08-23",
+      "2025-12-27",
+      "2026-01-12",
+      "2026-03-21"
+    ]
+  },
+  {
+    "name": "Yurakunosato Tsuchiura",
+    "name_ja": "湯楽の里 土浦店",
+    "rank": 5,
+    "lat": 36.088662,
+    "lng": 140.207902,
+    "address": "20-43 Manabeshinmachi, Tsuchiura, Ibaraki 300-0053, Japan",
+    "url": "https://www.yurakirari.com/yura/tsuchiura/",
+    "total_visits": 17,
+    "first_visit": "2014-03-01",
+    "last_visit": "2023-03-05",
+    "visits_by_year": {
+      "2014": 3,
+      "2016": 8,
+      "2017": 2,
+      "2019": 3,
+      "2023": 1
+    },
+    "visit_dates": [
+      "2014-03-01",
+      "2014-03-16",
+      "2014-03-30",
+      "2016-08-07",
+      "2016-08-11",
+      "2016-09-18",
+      "2016-09-21",
+      "2016-10-08",
+      "2016-10-22",
+      "2016-10-29",
+      "2016-11-12",
+      "2017-09-09",
+      "2017-12-16",
+      "2019-01-26",
+      "2019-03-02",
+      "2019-08-12",
+      "2023-03-05"
+    ]
+  },
+  {
+    "name": "Oyata onsen Myojin Hot Spring",
+    "name_ja": "大谷田温泉 明神の湯",
+    "rank": 6,
+    "lat": 35.7778986,
+    "lng": 139.8477377,
+    "address": "1-chōme-18-1 Ōyata, Adachi City, Tokyo 120-0001, Japan",
+    "url": "https://myoujin-no-yu.com/",
+    "total_visits": 16,
+    "first_visit": "2016-08-14",
+    "last_visit": "2017-01-07",
+    "visits_by_year": {
+      "2016": 14,
+      "2017": 2
+    },
+    "visit_dates": [
+      "2016-08-14",
+      "2016-08-18",
+      "2016-09-11",
+      "2016-09-14",
+      "2016-09-15",
+      "2016-09-22",
+      "2016-09-30",
+      "2016-10-12",
+      "2016-10-24",
+      "2016-11-06",
+      "2016-11-14",
+      "2016-11-26",
+      "2016-12-13",
+      "2016-12-29",
+      "2017-01-03",
+      "2017-01-07"
+    ]
+  },
+  {
+    "name": "Kosugiyu (sento)",
+    "name_ja": "小杉湯",
+    "rank": 7,
+    "lat": 35.7080667,
+    "lng": 139.6487665,
+    "address": "3-chōme-32-17 Kōenjikita, Suginami City, Tokyo 166-0002, Japan",
+    "url": "https://kosugiyu.co.jp/",
+    "total_visits": 15,
+    "first_visit": "2020-11-15",
+    "last_visit": "2021-05-30",
+    "visits_by_year": {
+      "2020": 6,
+      "2021": 9
+    },
+    "visit_dates": [
+      "2020-11-15",
+      "2020-11-21",
+      "2020-11-28",
+      "2020-12-05",
+      "2020-12-12",
+      "2020-12-20",
+      "2021-01-02",
+      "2021-01-03",
+      "2021-01-09",
+      "2021-01-17",
+      "2021-01-31",
+      "2021-02-14",
+      "2021-05-16",
+      "2021-05-23",
+      "2021-05-30"
+    ]
+  },
+  {
+    "name": "Tokyo Somei Onsen SAKURA",
+    "name_ja": "東京染井温泉SAKURA",
+    "rank": 8,
+    "lat": 35.7381725,
+    "lng": 139.7396918,
+    "address": "5-chōme-4-24 Komagome, Toshima City, Tokyo 170-0003, Japan",
+    "url": "https://www.sakura-2005.com/",
+    "total_visits": 13,
+    "first_visit": "2018-02-03",
+    "last_visit": "2023-06-11",
+    "visits_by_year": {
+      "2018": 5,
+      "2019": 7,
+      "2023": 1
+    },
+    "visit_dates": [
+      "2018-02-03",
+      "2018-04-05",
+      "2018-05-12",
+      "2018-12-09",
+      "2018-12-09",
+      "2019-01-13",
+      "2019-01-20",
+      "2019-02-24",
+      "2019-04-06",
+      "2019-04-29",
+      "2019-12-01",
+      "2019-12-08",
+      "2023-06-11"
+    ]
+  },
+  {
+    "name": "Sauna Sun Deck",
+    "name_ja": "サウナサンデッキ",
+    "rank": 9,
+    "lat": 35.7049984,
+    "lng": 139.6544677,
+    "address": "Japan, 〒166-0003 Tokyo, Suginami City, Kōenjiminami, 4-chōme−39−１７ ビレッジセンタ 2F",
+    "url": "http://www.kobayashi-yk.com/html/site2/",
+    "total_visits": 11,
+    "first_visit": "2021-10-17",
+    "last_visit": "2022-04-20",
+    "visits_by_year": {
+      "2021": 7,
+      "2022": 4
+    },
+    "visit_dates": [
+      "2021-10-17",
+      "2021-10-24",
+      "2021-10-28",
+      "2021-10-31",
+      "2021-11-13",
+      "2021-11-27",
+      "2021-12-28",
+      "2022-01-15",
+      "2022-01-22",
+      "2022-04-16",
+      "2022-04-20"
+    ]
+  },
+  {
+    "name": "Toshimaen Niwa-no-yu",
+    "name_ja": "としまえん庭の湯",
+    "rank": 10,
+    "lat": 35.7438303,
+    "lng": 139.6481385,
+    "address": "3-chōme-25-1 Kōyama, Nerima City, Tokyo 176-8531, Japan",
+    "url": "https://www.seibu-leisure.co.jp/niwanoyu/index.html",
+    "total_visits": 7,
+    "first_visit": "2022-08-06",
+    "last_visit": "2025-12-17",
+    "visits_by_year": {
+      "2022": 1,
+      "2023": 2,
+      "2025": 4
+    },
+    "visit_dates": [
+      "2022-08-06",
+      "2023-03-21",
+      "2023-03-25",
+      "2025-06-22",
+      "2025-07-21",
+      "2025-09-07",
+      "2025-12-17"
+    ]
+  },
+  {
+    "name": "New Tsubaki",
+    "name_ja": "ニュー椿",
+    "rank": 11,
+    "lat": 35.741408,
+    "lng": 139.731087,
+    "address": "Japan, 〒170-0002 Tokyo, Toshima City, Sugamo, 5-chōme−20−３ 椿ビル",
+    "url": "https://toshima-1010.com/public_bath/newtsubaki/",
+    "total_visits": 7,
+    "first_visit": "2023-07-01",
+    "last_visit": "2025-09-15",
+    "visits_by_year": {
+      "2023": 3,
+      "2024": 2,
+      "2025": 2
+    },
+    "visit_dates": [
+      "2023-07-01",
+      "2023-08-20",
+      "2023-12-02",
+      "2024-01-07",
+      "2024-02-12",
+      "2025-06-15",
+      "2025-09-15"
+    ]
+  },
+  {
+    "name": "SPA&HOTEL Nagomi",
+    "name_ja": "SPA&HOTEL Nagomi",
+    "rank": 12,
+    "lat": 35.5638009,
+    "lng": 139.7157233,
+    "address": "Japan, 〒144-0051 Tokyo, Ota City, Nishikamata, 7-chōme−4−１２ 弘城ビル 4F",
+    "url": "https://www.spa-nagomi.com/",
+    "total_visits": 4,
+    "first_visit": "2017-01-28",
+    "last_visit": "2017-10-07",
+    "visits_by_year": {
+      "2017": 4
+    },
+    "visit_dates": [
+      "2017-01-28",
+      "2017-02-19",
+      "2017-06-20",
+      "2017-10-07"
+    ]
+  },
+  {
+    "name": "Spa LaQua",
+    "name_ja": "スパ ラクーア",
+    "rank": 13,
+    "lat": 35.7068133,
+    "lng": 139.7533408,
+    "address": "Japan, 〒112-0003 Tokyo, Bunkyo City, Kasuga, 1-chōme−1−１ ラクーアビル 6F",
+    "url": "https://www.laqua.jp/spa/",
+    "total_visits": 3,
+    "first_visit": "2018-03-17",
+    "last_visit": "2018-03-21",
+    "visits_by_year": {
+      "2018": 3
+    },
+    "visit_dates": [
+      "2018-03-17",
+      "2018-03-17",
+      "2018-03-21"
+    ]
+  },
+  {
+    "name": "Nagomi no Yu",
+    "name_ja": "なごみの湯",
+    "rank": 14,
+    "lat": 35.7048569,
+    "lng": 139.6182011,
+    "address": "1-chōme-10-10 Kamiogi, Suginami City, Tokyo 167-0043, Japan",
+    "url": "https://www.nagomino-yu.com/",
+    "total_visits": 3,
+    "first_visit": "2020-02-22",
+    "last_visit": "2021-10-09",
+    "visits_by_year": {
+      "2020": 1,
+      "2021": 2
+    },
+    "visit_dates": [
+      "2020-02-22",
+      "2021-09-11",
+      "2021-10-09"
+    ]
+  },
+  {
+    "name": "Matsumoto-yu",
+    "name_ja": "松本湯",
+    "rank": 15,
+    "lat": 35.7109281,
+    "lng": 139.6896393,
+    "address": "5-chōme-29-12 Higashinakano, Nakano City, Tokyo 164-0003, Japan",
+    "url": "https://www.matsumoto-yu.com/",
+    "total_visits": 3,
+    "first_visit": "2022-03-27",
+    "last_visit": "2022-07-31",
+    "visits_by_year": {
+      "2022": 3
+    },
+    "visit_dates": [
+      "2022-03-27",
+      "2022-04-09",
+      "2022-07-31"
+    ]
+  },
+  {
+    "name": "Sugamoyu",
+    "name_ja": "巣鴨湯",
+    "rank": 16,
+    "lat": 35.738418,
+    "lng": 139.7300822,
+    "address": "4-chōme-13-9 Sugamo, Toshima City, Tokyo 170-0002, Japan",
+    "url": "https://toshima-1010.com/public_bath/sugamoyu/",
+    "total_visits": 3,
+    "first_visit": "2024-10-13",
+    "last_visit": "2025-09-15",
+    "visits_by_year": {
+      "2024": 1,
+      "2025": 2
+    },
+    "visit_dates": [
+      "2024-10-13",
+      "2025-01-25",
+      "2025-09-15"
+    ]
+  },
+  {
+    "name": "天然温泉 花咲の湯",
+    "name_ja": "天然温泉 花咲の湯",
+    "rank": 17,
+    "lat": 35.960718,
+    "lng": 139.624028,
+    "address": "570 Haraichi, Ageo, Saitama 362-0021, Japan",
+    "url": "https://hanasakispa.jp/",
+    "total_visits": 2,
+    "first_visit": "2013-11-02",
+    "last_visit": "2013-11-02",
+    "visits_by_year": {
+      "2013": 2
+    },
+    "visit_dates": [
+      "2013-11-02",
+      "2013-11-02"
+    ]
+  },
+  {
+    "name": "Shigira Hot Spring",
+    "name_ja": "シギラ黄金温泉",
+    "rank": 18,
+    "lat": 24.719759,
+    "lng": 125.334911,
+    "address": "Arazato-1405-223 Ueno, Miyakojima, Okinawa 906-0202, Japan",
+    "url": "https://shigira.com/onsen",
+    "total_visits": 2,
+    "first_visit": "2019-09-07",
+    "last_visit": "2019-09-09",
+    "visits_by_year": {
+      "2019": 2
+    },
+    "visit_dates": [
+      "2019-09-07",
+      "2019-09-09"
+    ]
+  },
+  {
+    "name": "Ginzan-so",
+    "name_ja": "銀山荘",
+    "rank": 19,
+    "lat": 38.572315,
+    "lng": 140.528334,
+    "address": "85 Ginzanshinhata, Obanazawa, Yamagata 999-4333, Japan",
+    "url": "https://www.ginzanso.jp/",
+    "total_visits": 2,
+    "first_visit": "2020-01-18",
+    "last_visit": "2020-01-19",
+    "visits_by_year": {
+      "2020": 2
+    },
+    "visit_dates": [
+      "2020-01-18",
+      "2020-01-19"
+    ]
+  },
+  {
+    "name": "Mannen-yu",
+    "name_ja": "万年湯",
+    "rank": 20,
+    "lat": 35.7010493,
+    "lng": 139.7035998,
+    "address": "1-chōme-15-17 Ōkubo, Shinjuku City, Tokyo 169-0072, Japan",
+    "url": "https://mannenyu.jp/",
+    "total_visits": 2,
+    "first_visit": "2020-06-14",
+    "last_visit": "2020-11-08",
+    "visits_by_year": {
+      "2020": 2
+    },
+    "visit_dates": [
+      "2020-06-14",
+      "2020-11-08"
+    ]
+  },
+  {
+    "name": "Benten-yu",
+    "name_ja": "弁天湯",
+    "rank": 21,
+    "lat": 35.695408,
+    "lng": 139.714866,
+    "address": "5-1 Yochōmachi, Shinjuku City, Tokyo 162-0055, Japan",
+    "url": "https://bentenyu.jimdofree.com/",
+    "total_visits": 2,
+    "first_visit": "2020-07-18",
+    "last_visit": "2022-12-04",
+    "visits_by_year": {
+      "2020": 1,
+      "2022": 1
+    },
+    "visit_dates": [
+      "2020-07-18",
+      "2022-12-04"
+    ]
+  },
+  {
+    "name": "神栖市 ふれあいセンター湯楽々",
+    "name_ja": "神栖市 ふれあいセンター湯楽々",
+    "rank": 22,
+    "lat": 35.894759,
+    "lng": 140.717275,
+    "address": "6283-2 Okunoya, Kamisu, Ibaraki 314-0116, Japan",
+    "url": "https://www.kamisu-yurara.com/",
+    "total_visits": 2,
+    "first_visit": "2022-08-27",
+    "last_visit": "2023-02-12",
+    "visits_by_year": {
+      "2022": 1,
+      "2023": 1
+    },
+    "visit_dates": [
+      "2022-08-27",
+      "2023-02-12"
+    ]
+  },
+  {
+    "name": "Gokurakuyu",
+    "name_ja": "極楽湯",
+    "rank": 23,
+    "lat": 35.768727,
+    "lng": 139.619423,
+    "address": "1-chōme-7-6 Shirako, Wako, Saitama 351-0101, Japan",
+    "url": "https://www.gokurakuyu.ne.jp/",
+    "total_visits": 2,
+    "first_visit": "2023-08-06",
+    "last_visit": "2023-11-19",
+    "visits_by_year": {
+      "2023": 2
+    },
+    "visit_dates": [
+      "2023-08-06",
+      "2023-11-19"
+    ]
+  },
+  {
+    "name": "Nakaya Ryokan",
+    "name_ja": "中屋旅館",
+    "rank": 24,
+    "lat": 36.8054248,
+    "lng": 138.9872167,
+    "address": "93 Yubiso, Minakami, Tone District, Gunma 379-1728, Japan",
+    "url": "https://www.nakayaryokan.com/",
+    "total_visits": 2,
+    "first_visit": "2024-04-27",
+    "last_visit": "2024-04-28",
+    "visits_by_year": {
+      "2024": 2
+    },
+    "visit_dates": [
+      "2024-04-27",
+      "2024-04-28"
+    ]
+  },
+  {
+    "name": "Bobata Onsen Yahataya",
+    "name_ja": "ボバタ温泉 八幡屋",
+    "rank": 25,
+    "lat": 37.1764016,
+    "lng": 140.4667071,
+    "address": "Toida-75-1 Bohata, Ishikawa, Ishikawa District, Fukushima 963-7831, Japan",
+    "url": "https://www.yahataya.co.jp/",
+    "total_visits": 2,
+    "first_visit": "2024-07-30",
+    "last_visit": "2024-07-31",
+    "visits_by_year": {
+      "2024": 2
+    },
+    "visit_dates": [
+      "2024-07-30",
+      "2024-07-31"
+    ]
+  },
+  {
+    "name": "ニュー椿湯コインランドリー",
+    "name_ja": "ニュー椿湯コインランドリー",
+    "rank": 26,
+    "lat": 35.7414391,
+    "lng": 139.7309965,
+    "address": "Japan, 〒170-0002 Tokyo, Toshima City, Sugamo, 5-chōme−20−３ 椿ビル",
+    "url": null,
+    "total_visits": 2,
+    "first_visit": "2025-06-15",
+    "last_visit": "2025-09-15",
+    "visits_by_year": {
+      "2025": 2
+    },
+    "visit_dates": [
+      "2025-06-15",
+      "2025-09-15"
+    ]
+  },
+  {
+    "name": "Capsule Hotel & Sauna Ikebukuro Plaza",
+    "name_ja": "カプセルホテル&サウナ 池袋プラザ",
+    "rank": 27,
+    "lat": 35.7323189,
+    "lng": 139.7070618,
+    "address": "2-chōme-12-3 Ikebukuro, Toshima City, Tokyo 170-0014, Japan",
+    "url": "https://www.asia-hd.co.jp/",
+    "total_visits": 2,
+    "first_visit": "2026-01-20",
+    "last_visit": "2026-01-30",
+    "visits_by_year": {
+      "2026": 2
+    },
+    "visit_dates": [
+      "2026-01-20",
+      "2026-01-30"
+    ]
+  },
+  {
+    "name": "Ocean One Day Onsen",
+    "name_ja": "Ocean One Day Onsen",
+    "rank": 28,
+    "lat": 35.459384,
+    "lng": 133.352601,
+    "address": "3-chōme-2-46 Shinkai, Yonago, Tottori 683-0801, Japan",
+    "url": "https://www.ocean-g.com/",
+    "total_visits": 1,
+    "first_visit": "2016-07-16",
+    "last_visit": "2016-07-16",
+    "visits_by_year": {
+      "2016": 1
+    },
+    "visit_dates": [
+      "2016-07-16"
+    ]
+  },
+  {
+    "name": "Gokurakuyu Kashiwa Store",
+    "name_ja": "極楽湯 柏店",
+    "rank": 29,
+    "lat": 35.8812156,
+    "lng": 139.9668535,
+    "address": "1-chōme-18 Ōyamadai, Kashiwa, Chiba 277-0837, Japan",
+    "url": "https://www.gokurakuyu.ne.jp/tempo/kashiwa/",
+    "total_visits": 1,
+    "first_visit": "2016-09-25",
+    "last_visit": "2016-09-25",
+    "visits_by_year": {
+      "2016": 1
+    },
+    "visit_dates": [
+      "2016-09-25"
+    ]
+  },
+  {
+    "name": "Yuranosato Matsudo",
+    "name_ja": "湯楽の里 松戸店",
+    "rank": 30,
+    "lat": 35.783602,
+    "lng": 139.920925,
+    "address": "947-3 Wanagaya, Matsudo, Chiba 270-2232, Japan",
+    "url": "https://www.yurakirari.com/matsudo/",
+    "total_visits": 1,
+    "first_visit": "2016-10-02",
+    "last_visit": "2016-10-02",
+    "visits_by_year": {
+      "2016": 1
+    },
+    "visit_dates": [
+      "2016-10-02"
+    ]
+  },
+  {
+    "name": "Kaiseiyu",
+    "name_ja": "快生湯",
+    "rank": 31,
+    "lat": 35.567048,
+    "lng": 139.713976,
+    "address": "5-chōme-10-5 Nishikamata, Ota City, Tokyo 144-0051, Japan",
+    "url": null,
+    "total_visits": 1,
+    "first_visit": "2016-12-18",
+    "last_visit": "2016-12-18",
+    "visits_by_year": {
+      "2016": 1
+    },
+    "visit_dates": [
+      "2016-12-18"
+    ]
+  },
+  {
+    "name": "Tsukuba YOU World",
+    "name_ja": "つくばYOUワールド",
+    "rank": 32,
+    "lat": 36.0491969,
+    "lng": 140.1336978,
+    "address": "370-1 Shimohara, Tsukuba, Ibaraki 305-0063, Japan",
+    "url": "https://spa-youworld.com/",
+    "total_visits": 1,
+    "first_visit": "2017-07-16",
+    "last_visit": "2017-07-16",
+    "visits_by_year": {
+      "2017": 1
+    },
+    "visit_dates": [
+      "2017-07-16"
+    ]
+  },
+  {
+    "name": "Yunosato-Okada",
+    "name_ja": "湯の里おかだ",
+    "rank": 33,
+    "lat": 35.2270955,
+    "lng": 139.0909352,
+    "address": "湯本茶屋-191 箱根町 Hakone, Ashigarashimo District, Kanagawa 250-0312, Japan",
+    "url": "https://www.yunosato-y.jp/",
+    "total_visits": 1,
+    "first_visit": "2017-11-11",
+    "last_visit": "2017-11-11",
+    "visits_by_year": {
+      "2017": 1
+    },
+    "visit_dates": [
+      "2017-11-11"
+    ]
+  },
+  {
+    "name": "中三依温泉 男鹿の湯",
+    "name_ja": "中三依温泉 男鹿の湯",
+    "rank": 34,
+    "lat": 36.986269,
+    "lng": 139.700595,
+    "address": "423 Nakamiyori, Nikko, Tochigi 321-2803, Japan",
+    "url": "https://www.nakamiyori.com/",
+    "total_visits": 1,
+    "first_visit": "2018-08-11",
+    "last_visit": "2018-08-11",
+    "visits_by_year": {
+      "2018": 1
+    },
+    "visit_dates": [
+      "2018-08-11"
+    ]
+  },
+  {
+    "name": "Enoshima Island Spa",
+    "name_ja": "江ノ島アイランドスパ",
+    "rank": 35,
+    "lat": 35.3020517,
+    "lng": 139.480584,
+    "address": "2-chōme-1-6 Enoshima, Fujisawa, Kanagawa 251-0036, Japan",
+    "url": "https://www.enospa.jp/",
+    "total_visits": 1,
+    "first_visit": "2018-09-01",
+    "last_visit": "2018-09-01",
+    "visits_by_year": {
+      "2018": 1
+    },
+    "visit_dates": [
+      "2018-09-01"
+    ]
+  },
+  {
+    "name": "Keio Takaosan Onsen Gokurakuyu",
+    "name_ja": "京王高尾山温泉 極楽湯",
+    "rank": 36,
+    "lat": 35.632228,
+    "lng": 139.2694049,
+    "address": "2229番７ Takaomachi, Hachioji, Tokyo 193-0844, Japan",
+    "url": "https://www.takaosan-onsen.jp/",
+    "total_visits": 1,
+    "first_visit": "2018-10-20",
+    "last_visit": "2018-10-20",
+    "visits_by_year": {
+      "2018": 1
+    },
+    "visit_dates": [
+      "2018-10-20"
+    ]
+  },
+  {
+    "name": "Kinugawa Onsen San-raku",
+    "name_ja": "鬼怒川温泉 三楽",
+    "rank": 37,
+    "lat": 36.8295493,
+    "lng": 139.7189777,
+    "address": "1060 Kinugawaonsen Ōhara, Nikko, Tochigi 321-2522, Japan",
+    "url": "https://sanraku.kenhotels.com/kinugawa/",
+    "total_visits": 1,
+    "first_visit": "2018-12-23",
+    "last_visit": "2018-12-23",
+    "visits_by_year": {
+      "2018": 1
+    },
+    "visit_dates": [
+      "2018-12-23"
+    ]
+  },
+  {
+    "name": "Odaiba Ōedo-Onsen Monogatari",
+    "name_ja": "お台場 大江戸温泉物語（閉業）",
+    "rank": 38,
+    "lat": 35.615578,
+    "lng": 139.7775303,
+    "address": "2-chōme-6-3 Aomi, Koto City, Tokyo 135-0064, Japan",
+    "url": "https://www.ooedoonsen.jp/",
+    "total_visits": 1,
+    "first_visit": "2019-03-03",
+    "last_visit": "2019-03-03",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-03-03"
+    ]
+  },
+  {
+    "name": "Moegi no Yu Onsen",
+    "name_ja": "もえぎの湯",
+    "rank": 39,
+    "lat": 35.8046162,
+    "lng": 139.102613,
+    "address": "119-1 Hikawa, Okutama, Nishitama District, Tokyo, Tokyo 198-0212, Japan",
+    "url": "https://www.okutamas.co.jp/moegi/",
+    "total_visits": 1,
+    "first_visit": "2019-05-02",
+    "last_visit": "2019-05-02",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-05-02"
+    ]
+  },
+  {
+    "name": "さわらびの湯",
+    "name_ja": "さわらびの湯",
+    "rank": 40,
+    "lat": 35.871339,
+    "lng": 139.180897,
+    "address": "685 Shimonaguri, Hanno, Saitama 357-0112, Japan",
+    "url": "https://sawarabino-yu.jp/",
+    "total_visits": 1,
+    "first_visit": "2019-07-15",
+    "last_visit": "2019-07-15",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-07-15"
+    ]
+  },
+  {
+    "name": "Kotobuki Yu",
+    "name_ja": "寿湯",
+    "rank": 41,
+    "lat": 35.712193,
+    "lng": 139.782697,
+    "address": "5-chōme-4-17 Higashiueno, Taito City, Tokyo 110-0015, Japan",
+    "url": "https://www.1010.or.jp/map/item/item-cnt-83",
+    "total_visits": 1,
+    "first_visit": "2019-07-20",
+    "last_visit": "2019-07-20",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-07-20"
+    ]
+  },
+  {
+    "name": "Daikokuyu Oshiage Onsen",
+    "name_ja": "大黒湯 押上温泉",
+    "rank": 42,
+    "lat": 35.70503,
+    "lng": 139.813662,
+    "address": "3-chōme-12-14 Yokokawa, Sumida City, Tokyo 130-0003, Japan",
+    "url": "https://www.daikokuyu.com/",
+    "total_visits": 1,
+    "first_visit": "2019-08-25",
+    "last_visit": "2019-08-25",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-08-25"
+    ]
+  },
+  {
+    "name": "Tsukuba Onsen KIRARI annex",
+    "name_ja": "つくば温泉 喜楽里別邸",
+    "rank": 43,
+    "lat": 36.0747592,
+    "lng": 140.084,
+    "address": "614-1 Nishiōhashi, Tsukuba, Ibaraki 305-0831, Japan",
+    "url": "https://www.yurakirari.com/tsukuba/",
+    "total_visits": 1,
+    "first_visit": "2019-09-14",
+    "last_visit": "2019-09-14",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-09-14"
+    ]
+  },
+  {
+    "name": "Saitō Yu",
+    "name_ja": "斎藤湯",
+    "rank": 44,
+    "lat": 35.729335,
+    "lng": 139.773033,
+    "address": "6-chōme-59-2 Higashinippori, Arakawa City, Tokyo 116-0014, Japan",
+    "url": "http://www.saito-yu.com/",
+    "total_visits": 1,
+    "first_visit": "2019-09-29",
+    "last_visit": "2019-09-29",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-09-29"
+    ]
+  },
+  {
+    "name": "Umenoyu",
+    "name_ja": "梅の湯",
+    "rank": 45,
+    "lat": 35.7467864,
+    "lng": 139.7615747,
+    "address": "4-chōme-13-2 Nishiogu, Arakawa City, Tokyo 116-0011, Japan",
+    "url": "https://yutonamisha.com/sento/umeyu/",
+    "total_visits": 1,
+    "first_visit": "2019-10-06",
+    "last_visit": "2019-10-06",
+    "visits_by_year": {
+      "2019": 1
+    },
+    "visit_dates": [
+      "2019-10-06"
+    ]
+  },
+  {
+    "name": "Kosekiya (Annex)",
+    "name_ja": "古勢起屋別館",
+    "rank": 46,
+    "lat": 38.5697434,
+    "lng": 140.5311968,
+    "address": "Japan, 〒999-4333 Yamagata, Obanazawa, 銀山温泉４１７",
+    "url": "https://www.kosekiya.jp/",
+    "total_visits": 1,
+    "first_visit": "2020-01-18",
+    "last_visit": "2020-01-18",
+    "visits_by_year": {
+      "2020": 1
+    },
+    "visit_dates": [
+      "2020-01-18"
+    ]
+  },
+  {
+    "name": "Lake Sagamiko Onsen Ururi",
+    "name_ja": "相模湖温泉うるり",
+    "rank": 47,
+    "lat": 35.602828,
+    "lng": 139.20075,
+    "address": "Japan, 〒252-0175 Kanagawa, Sagamihara, Midori Ward, Wakayanagi, １６３４ さがみ湖MORI MORI",
+    "url": "https://www.sagamiko-resort.jp/spa/",
+    "total_visits": 1,
+    "first_visit": "2020-07-26",
+    "last_visit": "2020-07-26",
+    "visits_by_year": {
+      "2020": 1
+    },
+    "visit_dates": [
+      "2020-07-26"
+    ]
+  },
+  {
+    "name": "Katsuura Tsuruntsurun Onsen",
+    "name_ja": "勝浦つるんつるん温泉",
+    "rank": 48,
+    "lat": 35.204721,
+    "lng": 140.281937,
+    "address": "1143 Matsuno, Katsuura, Chiba 299-5211, Japan",
+    "url": "http://katuuraonsen.com/",
+    "total_visits": 1,
+    "first_visit": "2020-09-20",
+    "last_visit": "2020-09-20",
+    "visits_by_year": {
+      "2020": 1
+    },
+    "visit_dates": [
+      "2020-09-20"
+    ]
+  },
+  {
+    "name": "Katsuura Tsuruntsurun Hot Spring Auto Camping Ground",
+    "name_ja": "勝浦つるんつるん温泉キャンプ場",
+    "rank": 49,
+    "lat": 35.203768,
+    "lng": 140.280799,
+    "address": "1126-2 Matsuno, Katsuura, Chiba 299-5211, Japan",
+    "url": "http://katuuraonsen.com/camp/camp.html",
+    "total_visits": 1,
+    "first_visit": "2020-09-21",
+    "last_visit": "2020-09-21",
+    "visits_by_year": {
+      "2020": 1
+    },
+    "visit_dates": [
+      "2020-09-21"
+    ]
+  },
+  {
+    "name": "Atagawakan",
+    "name_ja": "熱川館",
+    "rank": 50,
+    "lat": 34.8147982,
+    "lng": 139.0711073,
+    "address": "981-3 Naramoto, Higashiizu, Kamo District, Shizuoka 413-0302, Japan",
+    "url": "https://www.atagawakan.co.jp/",
+    "total_visits": 1,
+    "first_visit": "2020-12-29",
+    "last_visit": "2020-12-29",
+    "visits_by_year": {
+      "2020": 1
+    },
+    "visit_dates": [
+      "2020-12-29"
+    ]
+  },
+  {
+    "name": "Koganeyu",
+    "name_ja": "黄金湯",
+    "rank": 51,
+    "lat": 35.7022277,
+    "lng": 139.8153012,
+    "address": "4-chōme-14-6 Taihei, Sumida City, Tokyo 130-0012, Japan",
+    "url": "https://koganeyu.com/",
+    "total_visits": 1,
+    "first_visit": "2021-02-28",
+    "last_visit": "2021-02-28",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-02-28"
+    ]
+  },
+  {
+    "name": "Sagami Shimokuzawa Onsen Yuranosato",
+    "name_ja": "相模下九沢温泉 湯楽の里",
+    "rank": 52,
+    "lat": 35.583934,
+    "lng": 139.327557,
+    "address": "2385-1 Shimokuzawa, Midori Ward, Sagamihara, Kanagawa 252-0134, Japan",
+    "url": "https://www.yurakirari.com/sagamihara/",
+    "total_visits": 1,
+    "first_visit": "2021-05-01",
+    "last_visit": "2021-05-01",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-05-01"
+    ]
+  },
+  {
+    "name": "Rakutenchi Spa",
+    "name_ja": "別府ラクテンチ スパ",
+    "rank": 53,
+    "lat": 35.6960843,
+    "lng": 139.8156766,
+    "address": "Japan, 〒130-8535 Tokyo, Sumida City, Kōtōbashi, 4-chōme−27−１４ 9階",
+    "url": "https://rakutenchi.jp/facility/spa/",
+    "total_visits": 1,
+    "first_visit": "2021-07-03",
+    "last_visit": "2021-07-03",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-07-03"
+    ]
+  },
+  {
+    "name": "Nikko Manaka Forest - Camp and Spa Resort",
+    "name_ja": "日光まなかの森",
+    "rank": 54,
+    "lat": 36.759525,
+    "lng": 139.667209,
+    "address": "2620 Senoo, Nikko, Tochigi 321-1264, Japan",
+    "url": "https://www.nikko-manakanomori.com/",
+    "total_visits": 1,
+    "first_visit": "2021-07-22",
+    "last_visit": "2021-07-22",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-07-22"
+    ]
+  },
+  {
+    "name": "Day Spa Honoka",
+    "name_ja": "湯処ほのか 北広島",
+    "rank": 55,
+    "lat": 36.7585639,
+    "lng": 139.6175079,
+    "address": "1550-38 Tokorono, Nikko, Tochigi 321-1421, Japan",
+    "url": "https://yudokoro-honoka.jp/kitahiro/",
+    "total_visits": 1,
+    "first_visit": "2021-07-23",
+    "last_visit": "2021-07-23",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-07-23"
+    ]
+  },
+  {
+    "name": "Tenzan Onsen",
+    "name_ja": "天山湯治郷",
+    "rank": 56,
+    "lat": 35.2252398,
+    "lng": 139.0886833,
+    "address": "Japan, 〒250-0312 Kanagawa, Ashigarashimo District, Hakone, Yumotochaya, ２０８ １階",
+    "url": "https://tenzan.jp/",
+    "total_visits": 1,
+    "first_visit": "2021-08-20",
+    "last_visit": "2021-08-20",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-08-20"
+    ]
+  },
+  {
+    "name": "Fujiyama Onsen",
+    "name_ja": "ふじやま温泉",
+    "rank": 57,
+    "lat": 35.4836319,
+    "lng": 138.7795573,
+    "address": "4-chōme-17-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, Japan",
+    "url": "https://www.fujiyamaonsen.jp/",
+    "total_visits": 1,
+    "first_visit": "2021-08-25",
+    "last_visit": "2021-08-25",
+    "visits_by_year": {
+      "2021": 1
+    },
+    "visit_dates": [
+      "2021-08-25"
+    ]
+  },
+  {
+    "name": "REAL SAUNA KINSHICHO",
+    "name_ja": "リアルサウナ錦糸町",
+    "rank": 58,
+    "lat": 35.6981926,
+    "lng": 139.8119748,
+    "address": "Japan, 〒130-0013 Tokyo, Sumida City, Kinshi, 2-chōme−6−３ 第一荒木ビル",
+    "url": "https://capsuleinn-kinshichou.tokyo/",
+    "total_visits": 1,
+    "first_visit": "2022-02-06",
+    "last_visit": "2022-02-06",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-02-06"
+    ]
+  },
+  {
+    "name": "Aqua Place Asahi",
+    "name_ja": "アクアプレイス旭",
+    "rank": 59,
+    "lat": 35.7200793,
+    "lng": 139.7944642,
+    "address": "Japan, 〒111-0032 Tokyo, Taito City, Asakusa, 5-chōme−10−１０ ビラアサヒ １Ｆ",
+    "url": null,
+    "total_visits": 1,
+    "first_visit": "2022-02-23",
+    "last_visit": "2022-02-23",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-02-23"
+    ]
+  },
+  {
+    "name": "Funaoka Onsen",
+    "name_ja": "船岡温泉",
+    "rank": 60,
+    "lat": 35.036939,
+    "lng": 135.7445308,
+    "address": "82-1 Murasakino Minamifunaokachō, Kita Ward, Kyoto, 603-8225, Japan",
+    "url": "https://funaokaonsen.net/",
+    "total_visits": 1,
+    "first_visit": "2022-03-06",
+    "last_visit": "2022-03-06",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-03-06"
+    ]
+  },
+  {
+    "name": "Ume-yu",
+    "name_ja": "梅湯",
+    "rank": 61,
+    "lat": 34.9929578,
+    "lng": 135.7656794,
+    "address": "175 Iwatakichō, Shimogyo Ward, Kyoto, 600-8115, Japan",
+    "url": "https://yutonamisha.com/sento/umeyu/",
+    "total_visits": 1,
+    "first_visit": "2022-03-09",
+    "last_visit": "2022-03-09",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-03-09"
+    ]
+  },
+  {
+    "name": "Atarashi-yu",
+    "name_ja": "あたらし湯",
+    "rank": 62,
+    "lat": 35.0069879,
+    "lng": 135.776666,
+    "address": "316 Furunishichō, Higashiyama Ward, Kyoto, 605-0065, Japan",
+    "url": null,
+    "total_visits": 1,
+    "first_visit": "2022-03-10",
+    "last_visit": "2022-03-10",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-03-10"
+    ]
+  },
+  {
+    "name": "Yuranosato",
+    "name_ja": "湯楽の里",
+    "rank": 63,
+    "lat": 35.7198464,
+    "lng": 140.2932004,
+    "address": "Japan, 〒285-0912 Chiba, Inba District, Shisui, Iizumi, 1-chōme−１−１",
+    "url": "https://www.yurakirari.com/",
+    "total_visits": 1,
+    "first_visit": "2022-08-28",
+    "last_visit": "2022-08-28",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-08-28"
+    ]
+  },
+  {
+    "name": "Sakaeyu Sentō",
+    "name_ja": "栄湯",
+    "rank": 64,
+    "lat": 35.7254614,
+    "lng": 139.7987512,
+    "address": "1-chōme-4-5 Nihonzutsumi, Taito City, Tokyo 111-0021, Japan",
+    "url": "https://sakaeyu.com/",
+    "total_visits": 1,
+    "first_visit": "2022-09-25",
+    "last_visit": "2022-09-25",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-09-25"
+    ]
+  },
+  {
+    "name": "Hisamatsuyu",
+    "name_ja": "久松湯",
+    "rank": 65,
+    "lat": 35.7413838,
+    "lng": 139.6616046,
+    "address": "4-chōme-32-15 Sakuradai, Nerima City, Tokyo 176-0002, Japan",
+    "url": "https://www.hisamatsuyu.jp/",
+    "total_visits": 1,
+    "first_visit": "2022-10-13",
+    "last_visit": "2022-10-13",
+    "visits_by_year": {
+      "2022": 1
+    },
+    "visit_dates": [
+      "2022-10-13"
+    ]
+  },
+  {
+    "name": "Sauna Center",
+    "name_ja": "サウナセンター",
+    "rank": 66,
+    "lat": 35.720937,
+    "lng": 139.781884,
+    "address": "2-chōme-4-7 Shitaya, Taito City, Tokyo 110-0004, Japan",
+    "url": "https://sauna-center.jp/",
+    "total_visits": 1,
+    "first_visit": "2023-03-18",
+    "last_visit": "2023-03-18",
+    "visits_by_year": {
+      "2023": 1
+    },
+    "visit_dates": [
+      "2023-03-18"
+    ]
+  },
+  {
+    "name": "Kaikonoyu",
+    "name_ja": "開幸の湯",
+    "rank": 67,
+    "lat": 36.9557435,
+    "lng": 140.0715061,
+    "address": "1088-24 Nabekake, Nasushiobara, Tochigi 325-0013, Japan",
+    "url": null,
+    "total_visits": 1,
+    "first_visit": "2023-04-30",
+    "last_visit": "2023-04-30",
+    "visits_by_year": {
+      "2023": 1
+    },
+    "visit_dates": [
+      "2023-04-30"
+    ]
+  },
+  {
+    "name": "Top Sante Taiyo",
+    "name_ja": "トップサンテ太陽",
+    "rank": 68,
+    "lat": 36.0867803,
+    "lng": 140.6047065,
+    "address": "1500-2 Kamihataki, Hokota, Ibaraki 311-2113, Japan",
+    "url": "https://topsante-hokota.com/",
+    "total_visits": 1,
+    "first_visit": "2023-07-09",
+    "last_visit": "2023-07-09",
+    "visits_by_year": {
+      "2023": 1
+    },
+    "visit_dates": [
+      "2023-07-09"
+    ]
+  },
+  {
+    "name": "Taiyo Hot Spring",
+    "name_ja": "太陽温泉（閉店）",
+    "rank": 69,
+    "lat": 36.086891,
+    "lng": 140.604518,
+    "address": "1500-2 Kamihataki, Hokota, Ibaraki 311-2113, Japan",
+    "url": null,
+    "total_visits": 1,
+    "first_visit": "2023-07-09",
+    "last_visit": "2023-07-09",
+    "visits_by_year": {
+      "2023": 1
+    },
+    "visit_dates": [
+      "2023-07-09"
+    ]
+  },
+  {
+    "name": "【閉業】鹿島セントラル 天然温泉美人の湯 ゆの華",
+    "name_ja": "ゆの華（閉業）",
+    "rank": 70,
+    "lat": 35.8991661,
+    "lng": 140.6372262,
+    "address": "4-chōme-7-1 Ōnohara, Kamisu, Ibaraki 314-0144, Japan",
+    "url": "https://bijin-yunohana.jp/",
+    "total_visits": 1,
+    "first_visit": "2024-04-14",
+    "last_visit": "2024-04-14",
+    "visits_by_year": {
+      "2024": 1
+    },
+    "visit_dates": [
+      "2024-04-14"
+    ]
+  },
+  {
+    "name": "巣鴨 サウナ＆カプセルホテル サンフラワー",
+    "name_ja": "巣鴨サンフラワー",
+    "rank": 71,
+    "lat": 35.734034,
+    "lng": 139.739475,
+    "address": "2-chōme-5-4 Sugamo, Toshima City, Tokyo 170-0002, Japan",
+    "url": "https://www.sunflower-capsule.com/",
+    "total_visits": 1,
+    "first_visit": "2024-06-16",
+    "last_visit": "2024-06-16",
+    "visits_by_year": {
+      "2024": 1
+    },
+    "visit_dates": [
+      "2024-06-16"
+    ]
+  },
+  {
+    "name": "Kimitsu no Yu",
+    "name_ja": "君津の湯",
+    "rank": 72,
+    "lat": 35.3145649,
+    "lng": 139.9276833,
+    "address": "154 Sotominowa, Kimitsu, Chiba 299-1173, Japan",
+    "url": "https://www.kimitsu-yu.com/",
+    "total_visits": 1,
+    "first_visit": "2024-07-05",
+    "last_visit": "2024-07-05",
+    "visits_by_year": {
+      "2024": 1
+    },
+    "visit_dates": [
+      "2024-07-05"
+    ]
+  },
+  {
+    "name": "Spadium Japon",
+    "name_ja": "スパジアムジャポン",
+    "rank": 73,
+    "lat": 35.7728547,
+    "lng": 139.5447069,
+    "address": "2-chōme-7-7 Uenohara, Higashikurume, Tokyo 203-0001, Japan",
+    "url": "https://www.spajapo.com/",
+    "total_visits": 1,
+    "first_visit": "2024-11-03",
+    "last_visit": "2024-11-03",
+    "visits_by_year": {
+      "2024": 1
+    },
+    "visit_dates": [
+      "2024-11-03"
+    ]
+  },
+  {
+    "name": "Spabulic Akasaka",
+    "name_ja": "スパブリック赤坂",
+    "rank": 74,
+    "lat": 35.6760454,
+    "lng": 139.7367421,
+    "address": "Japan, 〒107-0052 Tokyo, Minato City, Akasaka, 3-chōme−10−４ 赤坂 月世界ビル 3F",
+    "url": "https://spablic.com/",
+    "total_visits": 1,
+    "first_visit": "2024-11-18",
+    "last_visit": "2024-11-18",
+    "visits_by_year": {
+      "2024": 1
+    },
+    "visit_dates": [
+      "2024-11-18"
+    ]
+  },
+  {
+    "name": "Sauna&Hotel KARUMARU",
+    "name_ja": "サウナ&ホテル かるまる",
+    "rank": 75,
+    "lat": 35.7324297,
+    "lng": 139.7086377,
+    "address": "Japan, 〒171-0014 Tokyo, Toshima City, Ikebukuro, 2-chōme−7−７ ６Ｆ",
+    "url": "https://karumaru.jp/ikebukuro/",
+    "total_visits": 1,
+    "first_visit": "2025-03-19",
+    "last_visit": "2025-03-19",
+    "visits_by_year": {
+      "2025": 1
+    },
+    "visit_dates": [
+      "2025-03-19"
+    ]
+  },
+  {
+    "name": "Times Spa Resta",
+    "name_ja": "タイムズスパ レスタ",
+    "rank": 76,
+    "lat": 35.7289193,
+    "lng": 139.7173039,
+    "address": "Japan, 〒170-0013 Tokyo, Toshima City, Higashiikebukuro, 4-chōme−25−９ 12F タイムズステーション池袋10F",
+    "url": "http://www.timesspa-resta.jp/",
+    "total_visits": 1,
+    "first_visit": "2026-02-03",
+    "last_visit": "2026-02-03",
+    "visits_by_year": {
+      "2026": 1
+    },
+    "visit_dates": [
+      "2026-02-03"
+    ]
+  }
+]
