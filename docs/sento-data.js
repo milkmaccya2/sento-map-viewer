@@ -1,4 +1,4 @@
-[
+const SENTO_DATA = [
   {
     "name": "Ofuronoosama Wakoten",
     "name_ja": "おふろの王様 和光店",
@@ -1675,4 +1675,4 @@
       "2026-02-03"
     ]
   }
-]
+];

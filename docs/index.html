@@ -27,7 +27,6 @@
       background: #1e293b;
       display: flex;
       flex-direction: column;
-      overflow: hidden;
       border-right: 1px solid #334155;
     }
 
@@ -275,21 +274,96 @@
     }
 
     /* Mobile */
+    .mobile-toggle {
+      display: none;
+    }
+
     @media (max-width: 768px) {
-      #app { flex-direction: column; }
-      #sidebar {
+      #app { flex-direction: column; position: relative; }
+
+      #map {
         width: 100%;
-        height: 45vh;
-        border-right: none;
-        border-bottom: 1px solid #334155;
+        height: 100vh;
+        order: -1;
       }
-      #map { height: 55vh; }
+
+      #sidebar {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 60vh;
+        border-right: none;
+        border-top: 1px solid #334155;
+        border-radius: 16px 16px 0 0;
+        transform: translateY(calc(100% - 48px));
+        transition: transform 0.3s ease;
+        z-index: 1000;
+      }
+
+      #sidebar.open {
+        transform: translateY(0);
+      }
+
+      .mobile-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+        cursor: pointer;
+        user-select: none;
+      }
+
+      .mobile-toggle .handle {
+        width: 40px;
+        height: 4px;
+        background: #475569;
+        border-radius: 2px;
+      }
+
+      #sidebar-header {
+        padding: 12px 20px;
+      }
+
+      #sidebar-header h1 {
+        font-size: 16px;
+      }
+
+      .stats-grid {
+        padding: 8px 16px;
+        gap: 6px;
+      }
+
+      .stat-card {
+        padding: 8px;
+      }
+
+      .stat-card .value {
+        font-size: 18px;
+      }
+
+      .controls {
+        padding: 10px 16px;
+      }
+
+      .year-btn {
+        padding: 3px 8px;
+        font-size: 11px;
+      }
+
+      #ranking-section {
+        padding: 10px 16px;
+      }
     }
   </style>
 </head>
 <body>
   <div id="app">
     <div id="sidebar">
+      <div class="mobile-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">
+        <div class="handle"></div>
+      </div>
       <div id="sidebar-header">
         <h1>銭湯マップ</h1>
         <div class="subtitle">13年分のGoogle Mapsタイムラインから</div>
@@ -332,6 +406,7 @@
     <div id="map"></div>
   </div>
 
+  <script id="sento-data" src="sento-data.js"></script>
   <script>
     let map, markersLayer, heatLayer;
     let allData = [];
@@ -339,8 +414,7 @@
     let currentMode = 'markers';
 
     async function init() {
-      const res = await fetch('sento-data.json');
-      allData = await res.json();
+      allData = SENTO_DATA;
 
       initMap();
       initYearButtons();
@@ -535,12 +609,18 @@
     }
 
     function flyTo(lat, lng, name) {
+      // モバイルではサイドバーを閉じてから地図を操作
+      if (window.innerWidth <= 768) {
+        document.getElementById('sidebar').classList.remove('open');
+      }
       map.flyTo([lat, lng], 14, { duration: 0.8 });
-      markersLayer.eachLayer(layer => {
-        if (layer.getLatLng().lat === lat && layer.getLatLng().lng === lng) {
-          layer.openPopup();
-        }
-      });
+      setTimeout(() => {
+        markersLayer.eachLayer(layer => {
+          if (layer.getLatLng().lat === lat && layer.getLatLng().lng === lng) {
+            layer.openPopup();
+          }
+        });
+      }, window.innerWidth <= 768 ? 400 : 0);
     }
 
     init();

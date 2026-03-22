@@ -12,7 +12,7 @@ from collections import defaultdict
 
 VISITS_CSV = "/Users/yokoyama/sento-visits.csv"
 RANKING_CSV = "/Users/yokoyama/sento-ranking-with-urls.csv"
-OUTPUT_JSON = "/Users/yokoyama/git/sento-map-viewer/docs/sento-data.json"
+OUTPUT_JS = "/Users/yokoyama/git/sento-map-viewer/docs/sento-data.js"
 
 
 def parse_latlng(s: str):
@@ -100,12 +100,14 @@ def main():
     result.sort(key=lambda x: x["rank"])
 
     import os
-    os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
+    os.makedirs(os.path.dirname(OUTPUT_JS), exist_ok=True)
 
-    with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
+    with open(OUTPUT_JS, "w", encoding="utf-8") as f:
+        f.write("const SENTO_DATA = ")
         json.dump(result, f, ensure_ascii=False, indent=2)
+        f.write(";\n")
 
-    print(f"Generated {OUTPUT_JSON} with {len(result)} facilities")
+    print(f"Generated {OUTPUT_JS} with {len(result)} facilities")
 
 
 if __name__ == "__main__":
