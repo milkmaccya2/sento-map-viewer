@@ -12,7 +12,7 @@ from collections import defaultdict
 
 VISITS_CSV = "/Users/yokoyama/sento-visits.csv"
 RANKING_CSV = "/Users/yokoyama/sento-ranking-with-urls.csv"
-OUTPUT_JSON = "/Users/yokoyama/git/sento-map/public/sento-data.json"
+OUTPUT_JSON = "/Users/yokoyama/git/sento-map-viewer/docs/sento-data.json"
 
 
 def parse_latlng(s: str):
