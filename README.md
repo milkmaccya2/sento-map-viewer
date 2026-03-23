@@ -19,13 +19,14 @@ https://milkmaccya2.github.io/sento-map-viewer/
 python3 prepare_data.py
 ```
 
-`sento-visits.csv` と `sento-ranking-with-urls.csv` を結合して `public/sento-data.json` を生成する。
+`sento-visits.csv` と `sento-ranking-with-urls.csv` を結合して `docs/sento-data.js` を生成する。
 
 ## 技術スタック
 
 - HTML / CSS / JavaScript（ビルドツール不要）
 - [Leaflet](https://leafletjs.com/) + [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat)
-- [CARTO Dark Matter](https://carto.com/basemaps/) タイル
+- [CARTO Voyager](https://carto.com/basemaps/) タイル
+- [Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP)（Google Fonts）
 - GitHub Pages でホスティング
 
 ## 関連
